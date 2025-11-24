@@ -1,0 +1,11 @@
+         109594 function calls in 42.790 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.051    0.051   42.790   42.790 codigo_original.py:10(buscar_primos)
+   100000   42.736    0.000   42.736    0.000 codigo_original.py:3(es_primo)
+     9592    0.003    0.000    0.003    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
